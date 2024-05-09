@@ -1,0 +1,3 @@
+Introduction:
+
+This project aims to create a working DCT transmission (or at least a working model) for an RC electric car. This means miniature scale, but I'm hoping to advance it further to a full sized kart. Budget permitting, of course. Anyways, I'll be dumping all my CAD and control code files here, with every update. Feel free to leave comments for improvement, and I'm always open to new ideas. 
